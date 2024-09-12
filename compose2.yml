@@ -1,0 +1,5 @@
+ services:
+   webplantilla:
+     build: ./webplantilla
+     ports:
+       - 8081:8081
